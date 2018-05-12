@@ -1,0 +1,41 @@
+_repo: Kylist--kodeista-ja-vainioiltaKertomuksia-ja-kuvaelmia_41686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Filander, Santeri
+    - Heikkiläinen, Iiska
+    - Heikkilainen, Iiska
+    - Filander, Aleksander
+    - Paukkunen, Jussi
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2012-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41686'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Finnish'
+tableOfContents: Koivu karjatuvalla -- Sisarukset -- Kreetaliisa ja Maijastiina --
+  "Kyllähän minä jo meinasin, mutta..." -- Konkurssi -- Naapurukset -- Tuttava --
+  Kelvottomat -- Isäntä, hevonen ja koira -- Isä on Ameriikassa -- Ennen ja nyt --
+  Himojensa herra -- Katovuoden kevät, kesä, syys -- Miska pantiin kansakouluun --
+  Painajainen.
+title: 'Kylistä, kodeista ja vainioilta: Kertomuksia ja kuvaelmia'
+url: http://www.gutenberg.org/ebooks/41686
