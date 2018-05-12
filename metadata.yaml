@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41686#Kylist--kodeista-ja-vainioiltaKertomuksia-ja-kuvaelmia
 gutenberg_issued: '2012-12-22'
 gutenberg_type: Text
 identifiers:
